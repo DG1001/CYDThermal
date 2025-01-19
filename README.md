@@ -26,7 +26,6 @@ The display shows the 8x8 thermal matrix, along with the minimum and maximum tem
 ### Hardware
 - **ESP32-2432S028 CYD Board**
 - **AMG8831 Thermal Sensor** (connected via I2C: SDA=IO27, SCL=IO22)
-- **TFT Display** compatible with the ESP32 and configured via the `TFT_eSPI` library.
 
 ### Software
 - [PlatformIO](https://platformio.org/) for development and upload.
@@ -84,5 +83,3 @@ This project is open-source and distributed under the MIT license.
 
 ## Troubleshooting
 - **"Sensor Error!" on Display**: Verify connections to the AMG8831 sensor and ensure it is powered correctly.
-- **No Output on TFT**: Check the pin configurations in `platformio.ini` and ensure compatibility with your display module.
-
