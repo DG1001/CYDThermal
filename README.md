@@ -13,9 +13,9 @@ This project demonstrates the use of an ESP32 microcontroller with an AMG8831 th
 
 ## Demo
 
-Here is a picture of the module in action:
+Here is a short animation of the module in action:
 
-![Module in Action](images/module_demo.png)
+![Module in Action](images/module_demo.gif)
 
 The display shows the 8x8 thermal matrix, along with the minimum and maximum temperature values.
 
