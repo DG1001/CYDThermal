@@ -1,0 +1,27 @@
+name: Generate SBOM
+
+on: [push]
+
+jobs:
+  sbom:
+    runs-on: docker
+    container:
+      image: ubuntu:latest
+    
+    steps:
+      - name: Checkout code
+        uses: https://github.com/actions/checkout@v3
+
+      - name: Install Syft
+        run: |
+          curl -sSfL https://raw.githubusercontent.com/anchore/syft/main/install.sh | sh -s -- -b /usr/local/bin
+
+      - name: Generate SBOM
+        run: |
+          syft dir:. -o syft-json --enrich all --file sbom.json
+
+      - name: Upload SBOM
+        uses: https://github.com/actions/upload-artifact@v3
+        with:
+          name: sbom
+          path: sbom.json
