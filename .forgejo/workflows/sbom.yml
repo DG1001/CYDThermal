@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   sbom:
-    runs-on: docker
+    runs-on: nix-amd64
     container:
       image: ubuntu:latest
     
