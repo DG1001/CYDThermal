@@ -1,0 +1,1402 @@
+{
+    "artifacts": [
+        {
+            "id": "e04b08ee1cd70691",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit AMG88xx Library/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit AMG88xx Library/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "1fffbddac6806fb9",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit BusIO/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit BusIO/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "cd2a712bbd371a37",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit GFX Library/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit GFX Library/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "18971c48d7147a7f",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit ILI9341/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit ILI9341/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "c1995e9334281a00",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit SH110X/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit SH110X/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "938685821bde8282",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit ST7735 and ST7789 Library/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit ST7735 and ST7789 Library/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "cd5bd2aa85d8f10a",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit STMPE610/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit STMPE610/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "2055449dd44efe98",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit TSC2007/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit TSC2007/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "3ef581f04239cd21",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit TouchScreen/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit TouchScreen/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "9cca409a992fb2a2",
+            "name": "actions/checkout",
+            "version": "v3",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit seesaw Library/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit seesaw Library/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/checkout:actions\\/checkout:v3:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/checkout@v3"
+        },
+        {
+            "id": "8a1b86a3a04835b1",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit AMG88xx Library/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit AMG88xx Library/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        },
+        {
+            "id": "abc376a9decffe8b",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit BusIO/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit BusIO/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        },
+        {
+            "id": "7f32f65c09084328",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit GFX Library/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit GFX Library/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        },
+        {
+            "id": "725f5c83b45d93c9",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit ILI9341/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit ILI9341/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        },
+        {
+            "id": "d2a2ca6eb0ab3ddc",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit SH110X/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit SH110X/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        },
+        {
+            "id": "868c876c276075c0",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit ST7735 and ST7789 Library/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit ST7735 and ST7789 Library/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        },
+        {
+            "id": "22344741ca658c09",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit STMPE610/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit STMPE610/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        },
+        {
+            "id": "2c94ea6830761627",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit TSC2007/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit TSC2007/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        },
+        {
+            "id": "2585708de0019357",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit TouchScreen/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit TouchScreen/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        },
+        {
+            "id": "1161188d8522d620",
+            "name": "actions/setup-python",
+            "version": "v4",
+            "type": "github-action",
+            "foundBy": "github-actions-usage-cataloger",
+            "locations": [
+                {
+                    "path": "/.pio/libdeps/cyd/Adafruit seesaw Library/.github/workflows/githubci.yml",
+                    "accessPath": "/.pio/libdeps/cyd/Adafruit seesaw Library/.github/workflows/githubci.yml",
+                    "annotations": {
+                        "evidence": "primary"
+                    }
+                }
+            ],
+            "licenses": [],
+            "language": "",
+            "cpes": [
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup-python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup_python:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup-python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                },
+                {
+                    "cpe": "cpe:2.3:a:actions\\/setup:actions\\/setup_python:v4:*:*:*:*:*:*:*",
+                    "source": "syft-generated"
+                }
+            ],
+            "purl": "pkg:github/actions/setup-python@v4"
+        }
+    ],
+    "artifactRelationships": [
+        {
+            "parent": "1161188d8522d620",
+            "child": "66115f6f85d52e65",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "18971c48d7147a7f",
+            "child": "f3c45ff221e16d4c",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "1fffbddac6806fb9",
+            "child": "03dd77a54e9a4bda",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "2055449dd44efe98",
+            "child": "b10d3429189485d8",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "22344741ca658c09",
+            "child": "58014e44f5562c1b",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "2585708de0019357",
+            "child": "a1168aa41894a83e",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "2c94ea6830761627",
+            "child": "b10d3429189485d8",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "3ef581f04239cd21",
+            "child": "a1168aa41894a83e",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "725f5c83b45d93c9",
+            "child": "f3c45ff221e16d4c",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "7f32f65c09084328",
+            "child": "9db52036cfee58b6",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "868c876c276075c0",
+            "child": "e8eadd592555aaa4",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "8a1b86a3a04835b1",
+            "child": "c5ea6ace5bbcff8b",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "938685821bde8282",
+            "child": "e8eadd592555aaa4",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "9cca409a992fb2a2",
+            "child": "66115f6f85d52e65",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "abc376a9decffe8b",
+            "child": "03dd77a54e9a4bda",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "c1995e9334281a00",
+            "child": "c1fb03b490ae0bbb",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "cd2a712bbd371a37",
+            "child": "9db52036cfee58b6",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "cd5bd2aa85d8f10a",
+            "child": "58014e44f5562c1b",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "1161188d8522d620",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "18971c48d7147a7f",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "1fffbddac6806fb9",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "2055449dd44efe98",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "22344741ca658c09",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "2585708de0019357",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "2c94ea6830761627",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "3ef581f04239cd21",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "725f5c83b45d93c9",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "7f32f65c09084328",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "868c876c276075c0",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "8a1b86a3a04835b1",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "938685821bde8282",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "9cca409a992fb2a2",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "abc376a9decffe8b",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "c1995e9334281a00",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "cd2a712bbd371a37",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "cd5bd2aa85d8f10a",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "d2a2ca6eb0ab3ddc",
+            "type": "contains"
+        },
+        {
+            "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+            "child": "e04b08ee1cd70691",
+            "type": "contains"
+        },
+        {
+            "parent": "d2a2ca6eb0ab3ddc",
+            "child": "c1fb03b490ae0bbb",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        },
+        {
+            "parent": "e04b08ee1cd70691",
+            "child": "c5ea6ace5bbcff8b",
+            "type": "evident-by",
+            "metadata": {
+                "kind": "primary"
+            }
+        }
+    ],
+    "files": [
+        {
+            "id": "c5ea6ace5bbcff8b",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit AMG88xx Library/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 752
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "82bdf542dfc5140ce0309c2515cc086512621708"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "b2e5f93c153af2bae74bea6d5db11ebe8b3804a8366d02ed90fad82a35aeb69b"
+                }
+            ]
+        },
+        {
+            "id": "03dd77a54e9a4bda",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit BusIO/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 887
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "188070e33061b9999e5548804011fe3be1f8f8f5"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "cacc78cfe9b34227cbadd29b5c5e8fe5e6a1d2c105f33aa7790a3c8e70a29f8e"
+                }
+            ]
+        },
+        {
+            "id": "9db52036cfee58b6",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit GFX Library/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 913
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "ab369a96ff4e8e243bd7311ed342719880658797"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "92753d4fae2229da28f6e35ba92963efe541a42245d1239572fa1df849841461"
+                }
+            ]
+        },
+        {
+            "id": "f3c45ff221e16d4c",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit ILI9341/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 760
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "6913433895de605d1eb97d54a925ffbea94a7f6e"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "43b5bf0d1ca1420d64c226690d3f9b42d073d637fe700dbf4dc77eab62fae2ee"
+                }
+            ]
+        },
+        {
+            "id": "c1fb03b490ae0bbb",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit SH110X/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 759
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "f939920bd6de3d20bd86b844d091404ea15a7d32"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "dab4f0521768d308153dfcb015873a90099b7475d7f3f068ddc6fd4a09853b00"
+                }
+            ]
+        },
+        {
+            "id": "e8eadd592555aaa4",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit ST7735 and ST7789 Library/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 887
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "c703935b1f5cc7984dd15e671b487e8443457538"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "5e2c45f7832a24b61827da577613fbc81330d92af3cf5bc284dc76fdbda4047d"
+                }
+            ]
+        },
+        {
+            "id": "58014e44f5562c1b",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit STMPE610/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 761
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "e228873a7bfd8b79b9bcdb4a408f3be24ce0d478"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "2e3d61a7c7068dcfa20c7873612f6cf0653ada0416716f69a7a20c7cb078a841"
+                }
+            ]
+        },
+        {
+            "id": "b10d3429189485d8",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit TSC2007/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 752
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "185974e2374871d74ca65342403c8db96758bedb"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "144c2a349f9759ce03e3e95ede41cb8143b15e3e30c7e882724442103d90e21d"
+                }
+            ]
+        },
+        {
+            "id": "a1168aa41894a83e",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit TouchScreen/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 748
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "a7332eac081e15151442cd3e1b7f0a145f65beff"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "e143a5e2c8d40330559e089e8c8fdb52197e8d075396a7cfb4dc846c80af7bdc"
+                }
+            ]
+        },
+        {
+            "id": "66115f6f85d52e65",
+            "location": {
+                "path": "/.pio/libdeps/cyd/Adafruit seesaw Library/.github/workflows/githubci.yml"
+            },
+            "metadata": {
+                "mode": 644,
+                "type": "RegularFile",
+                "userID": 1000,
+                "groupID": 1000,
+                "mimeType": "text/plain",
+                "size": 1304
+            },
+            "digests": [
+                {
+                    "algorithm": "sha1",
+                    "value": "5c3e4b81c888e45aa0046bd64f953d74f14a860f"
+                },
+                {
+                    "algorithm": "sha256",
+                    "value": "f129564786efdc6d4c209660401c222ec1e979dc73efb5e65e0c9ec2ccf7af3c"
+                }
+            ]
+        }
+    ],
+    "source": {
+        "id": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+        "name": ".",
+        "version": "",
+        "type": "directory",
+        "metadata": {
+            "path": "."
+        }
+    },
+    "distro": {},
+    "descriptor": {
+        "name": "syft",
+        "version": "1.19.0",
+        "configuration": {
+            "catalogers": {
+                "requested": {
+                    "default": [
+                        "directory"
+                    ]
+                },
+                "used": [
+                    "alpm-db-cataloger",
+                    "apk-db-cataloger",
+                    "binary-classifier-cataloger",
+                    "cargo-auditable-binary-cataloger",
+                    "cocoapods-cataloger",
+                    "conan-cataloger",
+                    "dart-pubspec-lock-cataloger",
+                    "dotnet-deps-cataloger",
+                    "dotnet-packages-lock-cataloger",
+                    "dotnet-portable-executable-cataloger",
+                    "dpkg-db-cataloger",
+                    "elf-binary-package-cataloger",
+                    "elixir-mix-lock-cataloger",
+                    "erlang-otp-application-cataloger",
+                    "erlang-rebar-lock-cataloger",
+                    "github-action-workflow-usage-cataloger",
+                    "github-actions-usage-cataloger",
+                    "go-module-binary-cataloger",
+                    "go-module-file-cataloger",
+                    "graalvm-native-image-cataloger",
+                    "haskell-cataloger",
+                    "java-archive-cataloger",
+                    "java-gradle-lockfile-cataloger",
+                    "java-jvm-cataloger",
+                    "java-pom-cataloger",
+                    "javascript-lock-cataloger",
+                    "linux-kernel-cataloger",
+                    "lua-rock-cataloger",
+                    "nix-store-cataloger",
+                    "opam-cataloger",
+                    "php-composer-lock-cataloger",
+                    "php-pecl-serialized-cataloger",
+                    "portage-cataloger",
+                    "python-installed-package-cataloger",
+                    "python-package-cataloger",
+                    "rpm-archive-cataloger",
+                    "rpm-db-cataloger",
+                    "ruby-gemfile-cataloger",
+                    "ruby-gemspec-cataloger",
+                    "rust-cargo-lock-cataloger",
+                    "swift-package-manager-cataloger",
+                    "swipl-pack-cataloger",
+                    "terraform-lock-cataloger",
+                    "wordpress-plugins-cataloger"
+                ]
+            },
+            "data-generation": {
+                "generate-cpes": true
+            },
+            "files": {
+                "content": {
+                    "globs": null,
+                    "skip-files-above-size": 0
+                },
+                "hashers": [
+                    "sha-1",
+                    "sha-256"
+                ],
+                "selection": "owned-by-package"
+            },
+            "packages": {
+                "binary": [
+                    "python-binary",
+                    "python-binary-lib",
+                    "pypy-binary-lib",
+                    "go-binary",
+                    "julia-binary",
+                    "helm",
+                    "redis-binary",
+                    "java-binary-openjdk",
+                    "java-binary-ibm",
+                    "java-binary-oracle",
+                    "java-binary-graalvm",
+                    "java-binary-jdk",
+                    "nodejs-binary",
+                    "go-binary-hint",
+                    "busybox-binary",
+                    "util-linux-binary",
+                    "haproxy-binary",
+                    "perl-binary",
+                    "php-cli-binary",
+                    "php-fpm-binary",
+                    "php-apache-binary",
+                    "php-composer-binary",
+                    "httpd-binary",
+                    "memcached-binary",
+                    "traefik-binary",
+                    "arangodb-binary",
+                    "postgresql-binary",
+                    "mysql-binary",
+                    "mysql-binary",
+                    "mysql-binary",
+                    "xtrabackup-binary",
+                    "mariadb-binary",
+                    "rust-standard-library-linux",
+                    "rust-standard-library-macos",
+                    "ruby-binary",
+                    "erlang-binary",
+                    "erlang-alpine-binary",
+                    "erlang-library",
+                    "swipl-binary",
+                    "dart-binary",
+                    "haskell-ghc-binary",
+                    "haskell-cabal-binary",
+                    "haskell-stack-binary",
+                    "consul-binary",
+                    "nginx-binary",
+                    "bash-binary",
+                    "openssl-binary",
+                    "gcc-binary",
+                    "fluent-bit-binary",
+                    "wordpress-cli-binary",
+                    "curl-binary",
+                    "lighttpd-binary",
+                    "proftpd-binary",
+                    "zstd-binary",
+                    "xz-binary",
+                    "gzip-binary",
+                    "sqlcipher-binary",
+                    "jq-binary"
+                ],
+                "golang": {
+                    "local-mod-cache-dir": "/home/fwystup/go/pkg/mod",
+                    "local-vendor-dir": "",
+                    "main-module-version": {
+                        "from-build-settings": true,
+                        "from-contents": true,
+                        "from-ld-flags": true
+                    },
+                    "proxies": [
+                        "https://proxy.golang.org",
+                        "direct"
+                    ],
+                    "search-local-mod-cache-licenses": true,
+                    "search-local-vendor-licenses": true,
+                    "search-remote-licenses": true
+                },
+                "java-archive": {
+                    "include-indexed-archives": true,
+                    "include-unindexed-archives": false,
+                    "maven-base-url": "https://repo1.maven.org/maven2",
+                    "maven-localrepository-dir": "/home/fwystup/.m2/repository",
+                    "max-parent-recursive-depth": 0,
+                    "resolve-transitive-dependencies": false,
+                    "use-maven-localrepository": true,
+                    "use-network": true
+                },
+                "javascript": {
+                    "include-dev-dependencies": false,
+                    "npm-base-url": "https://registry.npmjs.org",
+                    "search-remote-licenses": true
+                },
+                "linux-kernel": {
+                    "catalog-modules": true
+                },
+                "python": {
+                    "guess-unpinned-requirements": false
+                }
+            },
+            "relationships": {
+                "exclude-binary-packages-with-file-ownership-overlap": true,
+                "package-file-ownership": true,
+                "package-file-ownership-overlap": true
+            },
+            "search": {
+                "scope": "squashed"
+            }
+        }
+    },
+    "schema": {
+        "version": "16.0.20",
+        "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-16.0.20.json"
+    }
+}
