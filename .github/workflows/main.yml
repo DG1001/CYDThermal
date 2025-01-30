@@ -1,0 +1,23 @@
+name: Generate Enhanced SBOM
+
+on: [push]
+
+jobs:
+  sbom:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Enhanced SBOM
+        uses: anchore/sbom-action@v0
+        with:
+          format: syft-json
+          output-file: sbom.json
+          path: .
+          artifact-name: sbom-enriched
+          syft-args: "--enrich all"
